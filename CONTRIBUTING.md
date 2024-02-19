@@ -1,4 +1,4 @@
-## Contributing
+222222# Contributing
 
 1. Fork it ( <https://github.com/blockscout/blockscout/fork> )
 2. Create your feature branch (`git checkout -b my-new-feature`)
